@@ -111,7 +111,7 @@ stderr 1;
 end;
 
 //-----------------------------------------------------------------------//
-//            7.SIMULATION-RESULTS OF THE MODEL AND GRAPHS
+//            6.SIMULATION-RESULTS OF THE MODEL AND GRAPHS
 //-----------------------------------------------------------------------//
 
 stoch_simul( irf=25, order=1, nodisplay);
